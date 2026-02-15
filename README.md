@@ -39,11 +39,12 @@ Move the project folder to htdocs (XAMPP).
 
 Import the database into phpMyAdmin.
 
-## Author :
-Sathish Perumal. Web Developer.
-
 Configure database connection in include folder.
 
 Start Apache and MySQL.
 
 Open browser and run: http://localhost/crmprojects/
+
+## Author :
+
+Sathish Perumal. Web Developer.
