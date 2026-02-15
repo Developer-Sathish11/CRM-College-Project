@@ -39,6 +39,9 @@ Move the project folder to htdocs (XAMPP).
 
 Import the database into phpMyAdmin.
 
+## Author :
+Sathish Perumal. Web Developer.
+
 Configure database connection in include folder.
 
 Start Apache and MySQL.
