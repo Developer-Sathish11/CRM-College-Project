@@ -43,4 +43,4 @@ Configure database connection in include folder.
 
 Start Apache and MySQL.
 
-Open browser and run: http://localhost/http://localhost/crmprojects/
+Open browser and run: http://localhost/crmprojects/
